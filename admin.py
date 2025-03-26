@@ -3,7 +3,7 @@ from google.cloud import bigquery
 import pandas as pd
 import os
 
-os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"./macro-aurora-434314-h7-159bdf313dd7.json"
+os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = r"own Credentials"
 
    
 # Set up BigQuery client
