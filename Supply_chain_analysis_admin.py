@@ -19,7 +19,7 @@ logging.basicConfig(filename="app.log", level=logging.INFO, format="%(asctime)s 
 
 #Google Cloud credentials
 try:
-    credentials = service_account.Credentials.from_service_account_file("./macro-aurora-434314-h7-159bdf313dd7.json")
+    credentials = service_account.Credentials.from_service_account_file("Own Credentials")
     client = bigquery.Client(credentials=credentials)
 except Exception as e:
     st.error("Failed to initialize BigQuery client.")
