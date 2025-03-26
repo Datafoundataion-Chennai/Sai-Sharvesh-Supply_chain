@@ -1,0 +1,105 @@
+/* Background and Text */
+body, .stApp {
+    background-color: black !important;
+    color: #39FF14 !important; /* Neon Green */
+}
+
+/* Sidebar */
+.stSidebar {
+    background-color: #111 !important;
+}
+
+/* Titles and Headers */
+h1 {
+    color: #FF10F0 !important; /* Neon Pink */
+}
+h2 {
+    color: #FFAA00 !important; /* Neon Orange */
+}
+h3 {
+    color: #00FFFF !important; /* Neon Cyan */
+}
+h4 {
+    color: #FFD700 !important; /* Neon Yellow */
+}
+h5 {
+    color: #39FF14 !important; /* Neon Green */
+}
+h6 {
+    color: #1E90FF !important; /* Neon Blue */
+}
+
+/* Buttons */
+div.stButton > button {
+    background-color: #FF10F0 !important; /* Neon Pink */
+    color: black !important;
+    border-radius: 10px !important;
+    border: 2px solid #FF10F0 !important;
+}
+div.stButton > button:hover {
+    background-color: black !important;
+    color: #FF10F0 !important;
+    border: 2px solid #FF10F0 !important;
+}
+
+/* Inputs */
+.stTextInput, .stSelectbox, .stDateInput {
+    background-color: black !important;
+    color: #FFD700 !important; /* Neon Yellow */
+    border: 1px solid #FFD700 !important;
+}
+
+/* DataFrames */
+.stDataFrame {
+    background-color: black !important;
+    color: #00FFFF !important; /* Neon Cyan */
+    border: 1px solid #00FFFF !important;
+}
+
+/* Charts */
+.stPlotlyChart {
+    background-color: black !important;
+    color: #FFAA00 !important; /* Neon Orange */
+}
+
+/* Success, Warning, and Error Messages */
+.stSuccess {
+    color: #39FF14 !important; /* Neon Green */
+}
+.stWarning {
+    color: #FFD700 !important; /* Neon Yellow */
+}
+.stError {
+    color: #FF4500 !important; /* Neon Red */
+}
+
+/* Table Headers */
+thead {
+    background-color: #1E90FF !important; /* Neon Blue */
+    color: white !important;
+}
+
+/* Links */
+a {
+    color: #FF10F0 !important; /* Neon Pink */
+    text-decoration: none;
+}
+a:hover {
+    color: #00FFFF !important; /* Neon Cyan */
+    text-decoration: underline;
+}
+
+/* Scrollbars */
+::-webkit-scrollbar {
+    width: 10px;
+}
+::-webkit-scrollbar-track {
+    background: #111; /* Dark background */
+}
+::-webkit-scrollbar-thumb {
+    background: #FFAA00; /* Neon Orange */
+    border-radius: 5px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #FF10F0; /* Neon Pink */
+}

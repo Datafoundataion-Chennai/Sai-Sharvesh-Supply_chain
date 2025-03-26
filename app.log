@@ -1,0 +1,328 @@
+2025-03-18 21:48:13,578 - INFO - File uploaded successfully.
+2025-03-18 21:48:14,089 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-18 21:48:14,932 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-18 21:48:15,840 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 21:48:15,843 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 21:48:15,845 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 21:48:17,150 - INFO - Data analysis and visualization completed successfully.
+2025-03-18 21:50:49,405 - INFO - File uploaded successfully.
+2025-03-18 21:50:49,855 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-18 21:50:50,594 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-18 21:50:51,459 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 21:50:51,462 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-18 21:50:52,653 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 09:54:13,257 - INFO - File uploaded successfully.
+2025-03-19 09:54:14,177 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 09:54:15,955 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-19 09:54:17,758 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 09:54:17,766 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 09:54:20,118 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 10:03:04,662 - INFO - File uploaded successfully.
+2025-03-19 10:56:15,153 - INFO - File uploaded successfully.
+2025-03-19 10:58:54,812 - INFO - File uploaded successfully.
+2025-03-19 10:58:55,889 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 10:59:59,699 - INFO - File uploaded successfully.
+2025-03-19 11:00:00,545 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 11:00:02,073 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-19 11:00:04,154 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:00:04,162 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:00:06,919 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 11:30:10,587 - INFO - File uploaded successfully.
+2025-03-19 11:31:37,813 - INFO - File uploaded successfully.
+2025-03-19 11:31:38,763 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 11:31:40,200 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-19 11:31:41,917 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:31:41,923 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:31:44,521 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 11:51:35,108 - INFO - File uploaded successfully.
+2025-03-19 11:51:35,960 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 11:51:37,373 - INFO - Cleaned data saved to cleaned_data.csv
+2025-03-19 11:51:39,016 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:51:39,026 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 11:51:41,559 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 12:13:20,260 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 12:13:20,686 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 12:13:22,376 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 12:13:22,384 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 12:13:25,171 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 12:59:22,190 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 12:59:23,710 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 15:53:56,432 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 15:53:56,611 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-19 15:53:57,370 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 15:53:57,372 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 15:53:58,498 - INFO - Data analysis and visualization completed successfully.
+2025-03-19 22:05:22,379 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:05:22,616 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:05:24,516 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:05:24,526 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:05:25,476 - INFO - Dashboard successfully updated with search and filters.
+2025-03-19 22:05:50,433 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:05:50,636 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:05:52,149 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:05:52,154 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:05:53,091 - INFO - Dashboard successfully updated with search and filters.
+2025-03-19 22:06:25,852 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:06:26,073 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:06:28,540 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:06:28,754 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:06:30,259 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:06:30,266 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:06:31,289 - INFO - Dashboard successfully updated with search and filters.
+2025-03-19 22:06:59,148 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:06:59,354 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:07:00,980 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:07:00,986 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:07:02,022 - INFO - Dashboard successfully updated with search and filters.
+2025-03-19 22:07:28,427 - INFO - Data fetched from BigQuery successfully.
+2025-03-19 22:07:28,665 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-19 22:07:30,259 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:07:30,263 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-19 22:07:31,140 - INFO - Dashboard successfully updated with search and filters.
+2025-03-20 05:15:04,115 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:15:04,514 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 05:15:06,782 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:15:06,789 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:15:10,007 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 05:47:16,577 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:47:16,887 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:47:18,522 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:47:18,528 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:47:42,110 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:47:42,376 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:47:43,934 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:47:43,939 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:50:41,177 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:50:41,456 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:50:43,323 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:50:43,328 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:51:17,643 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:51:17,905 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:51:19,779 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:51:19,787 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:52:42,870 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:52:43,174 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:52:45,010 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:52:45,014 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:56:35,842 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:56:36,106 - INFO - Data cleaned: missing values handled, duplicates removed.
+2025-03-20 05:56:37,895 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:56:37,899 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:59:24,815 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 05:59:25,139 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 05:59:26,693 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:59:26,700 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 05:59:29,098 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:00:40,638 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:01:59,206 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:01:59,856 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:02:01,395 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:02:01,403 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:02:03,725 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:02:39,015 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:02:39,498 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:02:40,817 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:02:40,829 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:02:43,098 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:08:08,165 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:08:08,478 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:08:10,857 - INFO - Cleaned data saved to 'cleaned_data.csv' and available for download.
+2025-03-20 06:08:12,020 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:08:12,024 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:08:14,014 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:10:40,150 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:10:40,557 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:10:42,933 - INFO - Cleaned data saved to 'cleaned_data.csv' and available for download.
+2025-03-20 06:10:44,409 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:10:44,415 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:10:45,108 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:12:21,112 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:12:21,486 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:12:23,077 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:12:23,086 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:12:25,485 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:16:17,265 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:16:17,628 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:16:19,116 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:16:19,122 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:16:21,578 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 06:20:37,524 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 06:20:37,870 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 06:20:39,172 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:20:39,186 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 06:20:41,384 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 09:55:04,760 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 09:55:04,985 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 09:55:05,844 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 09:55:05,847 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 09:55:07,314 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:05:57,909 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:05:58,123 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:05:58,901 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:05:58,902 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:06:00,173 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:07:56,499 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:07:56,694 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:07:57,403 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:07:57,405 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:07:58,618 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:09:01,882 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:09:02,074 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:09:02,788 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:09:02,790 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:09:03,958 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:10:15,360 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:10:15,552 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:10:16,309 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:10:16,313 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:10:17,522 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:11:39,397 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:11:39,579 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:11:40,261 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:11:40,263 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:11:41,389 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:12:01,301 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:12:01,466 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:12:02,188 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:12:02,190 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:12:03,329 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:15:57,064 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:15:57,242 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:15:57,916 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:15:57,920 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:15:59,123 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:19:32,680 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:19:32,876 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:19:33,571 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:19:33,574 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:19:34,684 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:23:02,502 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:23:02,679 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:23:03,703 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:23:03,705 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:23:04,857 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:31:45,988 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:32:34,030 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:33:27,887 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:33:33,603 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:33:34,540 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:33:34,545 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:33:35,862 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:34:05,428 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:34:11,188 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:34:12,137 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:34:12,141 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:34:13,543 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:35:36,125 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:35:36,395 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:35:37,151 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:35:37,154 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:35:38,277 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:35:44,843 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:35:44,855 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:35:45,103 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:35:45,105 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:35:46,036 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:36:39,387 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:36:39,400 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:36:39,653 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:36:39,654 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:36:40,516 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:38:48,204 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:38:48,991 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:38:48,994 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:38:50,168 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:39:41,089 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:39:41,333 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:39:41,334 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:39:42,142 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:49:23,477 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:49:23,727 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:49:24,478 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:49:24,482 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:49:25,683 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:49:37,391 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:49:37,394 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:49:38,252 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:49:50,249 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:49:50,251 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:49:51,049 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:50:57,848 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:50:58,127 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:50:58,863 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:50:58,866 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:51:00,090 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:51:16,452 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:51:16,978 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:51:18,315 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:51:18,325 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:51:20,391 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:51:28,802 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:51:29,047 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:51:29,690 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:51:29,694 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:51:30,958 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:53:49,995 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:53:50,010 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:53:50,317 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:53:50,318 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:53:51,070 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:54:13,667 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:54:13,678 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:54:13,962 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:54:13,963 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:54:14,889 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:54:33,687 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:54:33,699 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:54:33,946 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:54:33,949 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:54:34,711 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 10:56:29,170 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 10:56:29,181 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 10:56:29,502 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:56:29,504 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 10:56:30,424 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 14:14:53,721 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 14:14:54,469 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 14:14:56,356 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 14:14:56,365 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 14:14:59,065 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 14:15:22,950 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 14:15:22,985 - INFO - Data cleaning completed: missing values handled, duplicates removed.
+2025-03-20 14:15:23,628 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 14:15:23,631 - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-03-20 14:15:25,680 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 14:47:32,524 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 14:47:32,787 - INFO - Data cleaning completed.
+2025-03-20 14:47:36,336 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:44:22,859 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:44:22,981 - INFO - Data cleaning completed.
+2025-03-20 20:44:24,272 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:45:11,847 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:45:11,849 - INFO - Data cleaning completed.
+2025-03-20 20:45:12,016 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:49:32,532 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:49:32,653 - INFO - Data cleaning completed.
+2025-03-20 20:49:34,308 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:50:30,454 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:50:30,570 - INFO - Data cleaning completed.
+2025-03-20 20:50:32,199 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:52:13,902 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:52:13,935 - INFO - Data cleaning completed.
+2025-03-20 20:52:14,299 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:52:31,548 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:52:31,605 - INFO - Data cleaning completed.
+2025-03-20 20:52:32,341 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:52:55,177 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:52:55,193 - INFO - Data cleaning completed.
+2025-03-20 20:52:55,619 - INFO - Data analysis and visualization completed successfully.
+2025-03-20 20:53:10,054 - INFO - Data fetched from BigQuery successfully.
+2025-03-20 20:53:10,081 - INFO - Data cleaning completed.
+2025-03-20 20:53:10,417 - INFO - Data analysis and visualization completed successfully.
+2025-03-21 12:03:47,507 - ERROR - Visualization error: histogram() got an unexpected keyword argument 'color_continuous_scale'
+2025-03-21 12:04:27,586 - ERROR - Visualization error: histogram() got an unexpected keyword argument 'color_continuous_scale'
+2025-03-23 17:32:38,755 - ERROR - Visualization error: 'Month'
+2025-03-23 17:36:24,863 - ERROR - Visualization error: Value of 'x' is not the name of a column in 'data_frame'. Expected one of ['Order_Week', 'Order_ID'] but received: Month
+2025-03-23 17:39:59,554 - ERROR - Visualization error: Value of 'x' is not the name of a column in 'data_frame'. Expected one of ['Order_Week', 'Order_ID'] but received: Month
+2025-03-23 17:40:58,934 - ERROR - Visualization error: Value of 'x' is not the name of a column in 'data_frame'. Expected one of ['Order_Week', 'Order_ID'] but received: Month
+2025-03-23 17:43:01,132 - ERROR - Visualization error: Value of 'y' is not the name of a column in 'data_frame'. Expected one of ['Month', 'Order_ID'] but received: Order
